@@ -117,8 +117,19 @@ footer {
   @include box_sizing;
 }
 
+Conversation started October 24
+Kevin McCall
+10/24, 3:36pm
+Kevin McCall
+http://thebotnet.com/cheats-exploits-glitches/232142-clicking-bad-cheat/
+Clicking Bad Cheat
+thebotnet.com
+Clicking Bad Cheat Cheats Exploits Glitches
+Today
+Kevin McCall
+9:41pm
+Kevin McCall
 /* sidebar */
-
 aside {
   section {
     padding: 10px 0;
@@ -141,7 +152,7 @@ aside {
     }
   }
 }
-stats {
+.stats {
   overflow: auto;
   a {
     float: left;
@@ -161,14 +172,13 @@ stats {
     display: block;
   }
 }
-
 .user_avatars {
   overflow: auto;
   margin-top: 10px;
   .gravatar {
     margin: 1px 1px;
-  
-
+  }
+}
 .gravatar {
   float: left;
   margin-right: 10px;
